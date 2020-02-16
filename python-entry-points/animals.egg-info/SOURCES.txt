@@ -1,0 +1,6 @@
+setup.py
+animals.egg-info/PKG-INFO
+animals.egg-info/SOURCES.txt
+animals.egg-info/dependency_links.txt
+animals.egg-info/entry_points.txt
+animals.egg-info/top_level.txt

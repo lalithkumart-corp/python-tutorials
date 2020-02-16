@@ -1,0 +1,7 @@
+[animals]
+cat = animals.models:Cat
+dog = animals.models:Dog
+
+[console_scripts]
+animals = animals.__main__:main
+
