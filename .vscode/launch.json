@@ -1,0 +1,25 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python-Entry-Points",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/python-entry-points/animals",
+            "args": [
+                "--kind", "cat"
+            ],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Working with ngram",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/workingWith-ngram",
+            "console": "integratedTerminal"
+        }
+    ]
+}
