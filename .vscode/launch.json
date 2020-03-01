@@ -20,6 +20,13 @@
             "request": "launch",
             "program": "${workspaceFolder}/workingWith-ngram",
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Working with TextClassification",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/working_textClassification/__main__.py",
+            "console": "integratedTerminal"
         }
     ]
 }
